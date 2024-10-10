@@ -219,7 +219,7 @@ pre>code {
 }
 
 .site-nav .menu-icon {
-    display: none
+    display: #ffffff
 }
 
 .site-nav .page-link {
@@ -236,8 +236,8 @@ pre>code {
         position:absolute;
         top: 9px;
         right: 15px;
-        background-color: #fdfdfd;
-        border: 1px solid #e8e8e8;
+        background-color: #161a29;
+        border: 1px solid #3b3b3b;
         border-radius: 5px;
         text-align: right
     }
